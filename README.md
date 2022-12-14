@@ -47,6 +47,10 @@ httpd=HTTPServer(server_address,MyServer)
 httpd.serve_forever(
 ```
 ## OUTPUT:
-
+### client side
+![Alt text](./images/clientside.png)
+### server side
+![Alt text](./images/serverside.png)
 
 ## RESULT:
+The program is executed sucessfully
